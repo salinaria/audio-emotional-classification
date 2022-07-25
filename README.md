@@ -9,11 +9,12 @@ and you can download audio files and json file from this repo.
 
 I used many diffrent classification models such as SVC, RandomForest, Knn, DecisionTree and MLP and best result I got was for MLP that it's accuracy was 74%.
 
-![alt text](https://github.com/aliaa80/audio-emotional-classification/blob/main/result1.png?raw=true)
-
+These are visualisation of MLP results:
 
 ![alt text](https://github.com/aliaa80/audio-emotional-classification/blob/main/result2.png?raw=true)
 
 
-Of course it's not a very good accuracy because this dataset isn't really balanced.
+![alt text](https://github.com/aliaa80/audio-emotional-classification/blob/main/result1.png?raw=true)
 
+
+Of course it's not a very good accuracy because this dataset isn't really balanced which you can see that number of labels aren't equal and there are huge difrencess between them
