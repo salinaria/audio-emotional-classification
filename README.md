@@ -25,7 +25,7 @@ v2- After I read some methodes about balancing data, I used one of this methodes
 
 here is number of each data labels before balancing and after balancing:
 
-![alt text](https://github.com/aliaa80/audio-emotional-classification/blob/main/before.png?raw=true)
+![alt text](https://github.com/aliaa80/audio-emotional-classification/blob/main/before.jpg?raw=true)
 
 
 ![alt text](https://github.com/aliaa80/audio-emotional-classification/blob/main/after.png?raw=true)
