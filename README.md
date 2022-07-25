@@ -21,7 +21,19 @@ Of course it's not a very good accuracy because this dataset isn't really balanc
 
 # After balancing data
 
-v2- After I read some methodes about balancing data, I used one of this methodes to my data and I see a huge progress in accuracies. Again I visualize MLP accuracy that is increased from 74 percent to 93 percent and confusion matrix below:
+v2- After I read some methodes about balancing data, I used one of this methodes to my data and I see a huge progress in accuracies. 
+
+here is number of each data labels before balancing and after balancing:
+
+![alt text](https://github.com/aliaa80/audio-emotional-classification/blob/main/before.png?raw=true)
+
+
+![alt text](https://github.com/aliaa80/audio-emotional-classification/blob/main/after.png?raw=true)
+
+
+
+
+Again I visualize MLP accuracy that is increased from 74 percent to 93 percent and confusion matrix below:
 
 
 ![alt text](https://github.com/aliaa80/audio-emotional-classification/blob/main/balanced_result2.png?raw=true)
