@@ -26,9 +26,9 @@ v2- After I read some methodes about balancing data, I used one of this methodes
 here is number of each data labels before balancing and after balancing:
 
 
-<img src="https://github.com/aliaa80/audio-emotional-classification/blob/main/before.jpg" width="100" height="100">
+<img src="https://github.com/aliaa80/audio-emotional-classification/blob/main/before.jpg" width="600" height="300">
 
-<img src="https://github.com/aliaa80/audio-emotional-classification/blob/main/after.png" width="100" height="100">
+<img src="https://github.com/aliaa80/audio-emotional-classification/blob/main/after.png" width="600" height="300">
 
 
 Again I visualize MLP accuracy that is increased from 74 percent to 93 percent and confusion matrix below:
