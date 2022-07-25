@@ -1,4 +1,4 @@
-# audio emotional classification
+# Audio Emotional classification
 Classify a speech dataset by their emotions using some classification models
 
 The dataset I used is:
