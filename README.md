@@ -19,7 +19,9 @@ These are visualisation of MLP results:
 
 Of course it's not a very good accuracy because this dataset isn't really balanced which you can see that number of labels aren't equal and there are huge difrencess between them
 
-v2- After balancing data there was an huge progress in accuracies.Again I visualize MLP accuracy that is increased from 74 percent to 93 percent and confusion matrix below:
+# After balancing data
+
+v2- After I read some methodes about balancing data, I used one of this methodes to my data and I see a huge progress in accuracies. Again I visualize MLP accuracy that is increased from 74 percent to 93 percent and confusion matrix below:
 
 
 ![alt text](https://github.com/aliaa80/audio-emotional-classification/blob/main/balanced_result2.png?raw=true)
