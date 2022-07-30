@@ -23,7 +23,7 @@ Of course it's not a very good accuracy because this dataset isn't really balanc
 
 v2- After I read some methodes about balancing data, I used one of this methodes to my data and I see a huge progress in accuracies. 
 
-here is number of each data labels before balancing and after balancing:
+here is number of voices respect to thier lables before balancing and after balancing:
 
 
 <img src="https://github.com/aliaa80/audio-emotional-classification/blob/main/before.jpg" width="600" height="300">
